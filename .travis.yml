@@ -1,2 +1,7 @@
 langauge: java
 
+sudo: false
+
+script: mvn clean verify
+
+
