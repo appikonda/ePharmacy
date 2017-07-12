@@ -1,5 +1,3 @@
-# ePharmacy
-Request medicines from online pharmacy
 
 
 Run Local (Embedded Tomcat):
