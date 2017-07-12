@@ -1,5 +1,5 @@
 
-[![Build Status](https://travis-ci.org/appikonda/ePharmacy.svg?branch=master)](https://travis-ci.org/appikonda/ePharmacy)
+[![Build Status](https://travis-ci.org/appikonda/ePharmacy.svg?branch=dev)](https://travis-ci.org/appikonda/ePharmacy)
 
 Run Local (Embedded Tomcat):
 ----------------
